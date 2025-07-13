@@ -32,9 +32,13 @@
 
 
 ├── config.php ← تنظیمات اتصال به دیتابیس
+
 ├── functions.php ← توابع دیتابیس و احراز هویت
+
 ├── curl.php ← ارتباط با درگاه از طریق CURL
+
 ├── DocumentsManagement.php ← هسته API تکمیل و تایید مدارک
+
 ├── test-documents.php ← اسکریپت تست API
 
 
